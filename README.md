@@ -33,7 +33,7 @@ A modern, feature-rich Snake Game built with Flutter for both Android and iOS de
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/snake-game.git
+https://github.com/naveedqadir/snake-game.git
 cd snake-game
 ```
 
