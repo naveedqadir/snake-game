@@ -7,7 +7,7 @@ A modern, feature-rich Snake Game built with Flutter for both Android and iOS de
 
 ## 📱 Screenshots
 
-*[Screenshots coming soon]*
+![Diagram](/diagram.png)
 
 ## ✨ Features
 
